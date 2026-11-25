@@ -1,0 +1,26 @@
+{
+  "RuleDetector": {
+    "accuracy": 0.9444,
+    "precision_macro": 0.9466,
+    "recall_macro": 0.9444,
+    "f1_macro": 0.944,
+    "binary_accuracy": 0.9778,
+    "binary_f1_scam": 0.9865
+  },
+  "MLDetector": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0,
+    "binary_accuracy": 1.0,
+    "binary_f1_scam": 1.0
+  },
+  "HybridDetector": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0,
+    "binary_accuracy": 1.0,
+    "binary_f1_scam": 1.0
+  }
+}
